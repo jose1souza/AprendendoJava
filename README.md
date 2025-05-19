@@ -1,6 +1,6 @@
 # Aprendendo Java
 
-Bem-vindo ao repositório "Aprendendo Java"! 🌟
+Bem-vindo ao repositório "Aprendendo Java"! 
 
 Este repositório foi criado para documentar minha jornada de aprendizado em Java. Aqui você encontrará exemplos de código e explicações detalhadas sobre os seguintes tópicos:
 
